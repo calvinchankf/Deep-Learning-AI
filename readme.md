@@ -1,4 +1,5 @@
-#### [SIP]
+### Overview
+https://www.deeplearning.ai/
 
 #### Run
 
@@ -19,3 +20,19 @@ To exit the virtual environment, just simply use the command:
 ```
 deactivate
 ```
+
+#### Progress
+
+- Neural Networks and Deep Learning
+  - [x] asg 1
+  - [ ] asg 2
+  - [ ] asg 3
+  - [ ] asg 4
+
+- Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+
+- Structuring Machine Learning Projects
+
+- Convolutional Neural Networks
+
+- Sequence Models
