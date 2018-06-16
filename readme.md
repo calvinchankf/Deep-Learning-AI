@@ -26,8 +26,9 @@ deactivate
 - Neural Networks and Deep Learning
   - [x] asg 1
   - [x] asg 2
-  - [ ] asg 3
+  - [x] asg 3
   - [ ] asg 4
+  - [ ] asg 5
 
 - Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 
