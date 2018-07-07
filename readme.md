@@ -31,7 +31,10 @@ deactivate
   - [x] asg 5
 
 - Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
-  - gonna start soon
+  - [x] asg 1
+  - [x] asg 2
+  - [ ] asg 3
+  - [ ] asg 4
 
 
 - Structuring Machine Learning Projects
