@@ -33,7 +33,7 @@ deactivate
 - Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
   - [x] asg 1
   - [x] asg 2
-  - [ ] asg 3
+  - [x] asg 3
   - [ ] asg 4
 
 
