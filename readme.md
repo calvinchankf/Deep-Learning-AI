@@ -34,7 +34,7 @@ deactivate
   - [x] asg 1
   - [x] asg 2
   - [x] asg 3
-  - [ ] asg 4
+  - [x] asg 4
 
 
 - Structuring Machine Learning Projects
@@ -48,7 +48,10 @@ deactivate
 | Specialization | URL |
 | ------------- | ------------- |
 | Neural Networks and Deep Learning | https://www.coursera.org/account/accomplishments/verify/2898H28J9FL4 |
-| Improving Deep Neural Networks |  |
+| Improving Deep Neural Networks | https://www.coursera.org/account/accomplishments/verify/PZE3KTAQLA4G |
 | Structuring Machine Learning Projects |  |
 | Convolutional Neural Networks |  |
 | Sequence Models |  |
+
+#### Update
+- Due to my tight schedule, I have stopped my learning journey since Aug 8th 2018.
