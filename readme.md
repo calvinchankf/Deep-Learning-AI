@@ -37,7 +37,7 @@ deactivate
   - [x] asg 4
 
 
-- Structuring Machine Learning Projects
+- Structuring Machine Learning Projects(No assignments)
 
 - Convolutional Neural Networks
 
